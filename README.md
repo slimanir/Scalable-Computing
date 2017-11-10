@@ -1,5 +1,4 @@
 # Scalable-Computing
-
-Hi people,
-Rachid here, engineer and Computer science Masters student.
-cheers.
+# Chat Server Task
+# This is a basic centralized chat Server.
+###########{ Programming language Python 3 } ##################
